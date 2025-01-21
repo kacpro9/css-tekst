@@ -1,5 +1,12 @@
 h1{
     font-size: 5em;
-    color: blue;
+    color: #0000ff;
     text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 1.5em;
+}
+span.ingredient{
+    color: #ff0000;
 }
